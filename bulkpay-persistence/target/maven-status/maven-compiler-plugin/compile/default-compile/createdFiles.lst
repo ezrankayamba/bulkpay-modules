@@ -1,0 +1,15 @@
+tz/co/nezatech/apps/bulkpay/repository/PermissionRepository.class
+tz/co/nezatech/apps/bulkpay/model/Payment.class
+tz/co/nezatech/apps/bulkpay/model/User.class
+tz/co/nezatech/apps/bulkpay/repository/RoleRepository.class
+tz/co/nezatech/apps/bulkpay/model/Permission.class
+tz/co/nezatech/apps/bulkpay/model/Role.class
+tz/co/nezatech/apps/bulkpay/repository/UserRepository.class
+tz/co/nezatech/apps/bulkpay/model/Batch.class
+tz/co/nezatech/apps/bulkpay/model/Audit.class
+tz/co/nezatech/apps/bulkpay/repository/PermissionRepository$1.class
+tz/co/nezatech/apps/bulkpay/model/CompanyUser.class
+tz/co/nezatech/apps/bulkpay/repository/RoleRepository$1.class
+tz/co/nezatech/apps/bulkpay/repository/UserRepository$1.class
+tz/co/nezatech/apps/bulkpay/model/NamedData.class
+tz/co/nezatech/apps/bulkpay/model/Company.class

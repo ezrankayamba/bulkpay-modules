@@ -1,0 +1,9 @@
+tz/co/nezatech/apps/bulkpay/web/Application.class
+tz/co/nezatech/apps/bulkpay/web/controller/UserController.class
+tz/co/nezatech/apps/bulkpay/web/config/ViewLayoutBasedHandler.class
+tz/co/nezatech/apps/bulkpay/web/controller/PermissionController.class
+tz/co/nezatech/apps/bulkpay/web/config/SecurityConfig.class
+tz/co/nezatech/apps/bulkpay/web/controller/RoleController.class
+tz/co/nezatech/apps/bulkpay/web/controller/Main.class
+tz/co/nezatech/apps/bulkpay/web/config/WebConfig.class
+tz/co/nezatech/apps/bulkpay/web/config/BreadCrumb.class

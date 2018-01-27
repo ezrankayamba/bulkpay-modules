@@ -1,0 +1,13 @@
+/home/nkayamba/Documents/projects/dev/sts/bulkpay-modules/bulkpay-persistence/src/main/java/tz/co/nezatech/apps/bulkpay/repository/PermissionRepository.java
+/home/nkayamba/Documents/projects/dev/sts/bulkpay-modules/bulkpay-persistence/src/main/java/tz/co/nezatech/apps/bulkpay/model/RolePermission.java
+/home/nkayamba/Documents/projects/dev/sts/bulkpay-modules/bulkpay-persistence/src/main/java/tz/co/nezatech/apps/bulkpay/model/Permission.java
+/home/nkayamba/Documents/projects/dev/sts/bulkpay-modules/bulkpay-persistence/src/main/java/tz/co/nezatech/apps/bulkpay/repository/RoleRepository.java
+/home/nkayamba/Documents/projects/dev/sts/bulkpay-modules/bulkpay-persistence/src/main/java/tz/co/nezatech/apps/bulkpay/model/Audit.java
+/home/nkayamba/Documents/projects/dev/sts/bulkpay-modules/bulkpay-persistence/src/main/java/tz/co/nezatech/apps/bulkpay/model/User.java
+/home/nkayamba/Documents/projects/dev/sts/bulkpay-modules/bulkpay-persistence/src/main/java/tz/co/nezatech/apps/bulkpay/model/Role.java
+/home/nkayamba/Documents/projects/dev/sts/bulkpay-modules/bulkpay-persistence/src/main/java/tz/co/nezatech/apps/bulkpay/model/Company.java
+/home/nkayamba/Documents/projects/dev/sts/bulkpay-modules/bulkpay-persistence/src/main/java/tz/co/nezatech/apps/bulkpay/repository/UserRepository.java
+/home/nkayamba/Documents/projects/dev/sts/bulkpay-modules/bulkpay-persistence/src/main/java/tz/co/nezatech/apps/bulkpay/model/Batch.java
+/home/nkayamba/Documents/projects/dev/sts/bulkpay-modules/bulkpay-persistence/src/main/java/tz/co/nezatech/apps/bulkpay/model/Payment.java
+/home/nkayamba/Documents/projects/dev/sts/bulkpay-modules/bulkpay-persistence/src/main/java/tz/co/nezatech/apps/bulkpay/model/NamedData.java
+/home/nkayamba/Documents/projects/dev/sts/bulkpay-modules/bulkpay-persistence/src/main/java/tz/co/nezatech/apps/bulkpay/model/CompanyUser.java
